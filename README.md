@@ -20,7 +20,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [General](#general)
   
     * [Articles](#articles)
-
+      * [A Strategic Framework Governance, Risk and Compliance](#memory-security-in-go-cryptolosophy-io-2017) (2009)
     * [Books](#books)
       * [Cryptography Engineering](#-cryptography-engineering-2010) (2010) ![nonfree](img/nonfree.png)
       * [Securing DevOps](#-securing-devops-2018) (2018) ![nonfree](img/nonfree.png)
